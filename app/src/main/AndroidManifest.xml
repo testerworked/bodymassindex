@@ -12,6 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BodyMassIndex"
         tools:targetApi="31">
+
+        <activity
+            android:name="com.sample.indexbodychecker.ResultActivity"
+            android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

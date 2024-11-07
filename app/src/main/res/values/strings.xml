@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BodyMassIndex</string>
     <string name="main_message">BodyMassIndex</string>
+    <string name="info_result">Info Body Mass Index</string>
 </resources>
